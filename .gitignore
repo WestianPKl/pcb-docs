@@ -1,0 +1,19 @@
+# KiCAD backup files (auto-generated, large)
+*-backups/
+*.zip
+*.bak
+*~
+*.lck
+
+# KiCAD local user settings (machine-specific)
+*.kicad_prl
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
